@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 - 🔭 Desenvolvedor de software
 - 🌱 Estudando Java
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cauaemanuel&show_icons=true&theme=dark)
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cauaemanuel&show_icons=true&theme=dark)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cauaemanuel&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
