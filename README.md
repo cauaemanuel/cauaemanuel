@@ -1,10 +1,20 @@
 ### System.out.println("Cauã Emanuel");
 
+- 💻 Desenvolvedor apaixonado e entusiasta de tecnologia
+- 🌐 Explorando o mundo do código e construindo soluções inovadoras
+- 🚀 Especializado em desenvolvimento utilizando Java, MySQL, Spring, JavaScript, jQuery e AJAX
+- 🤝 Colaborando para criar um futuro digital mais acessível e inclusivo
+- 🎯 Focado em desenvolvimento web e aplicações escaláveis
 
+### 🛠️ Tecnologias e Ferramentas
 
+- Linguagens: Java, JavaScript
+- Frameworks: Spring Boot
+- Banco de Dados: MySQL
+- Outras ferramentas: Git e AJAX
+### 🌱 Atualmente Aprendendo
 
-- 🔭 Desenvolvedor de software
-- 🌱 Estudando Java
+- Aprimorando habilidades em Java e Spring Boot
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cauaemanuel&show_icons=true&theme=dark)-->
