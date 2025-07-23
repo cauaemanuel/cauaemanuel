@@ -1,40 +1,42 @@
-### System.out.println("Cauã Emanuel");
 
-- 💻 Desenvolvedor apaixonado e entusiasta de tecnologia
-- 🌐 Explorando o mundo do código e construindo soluções inovadoras
-- 🚀 Especializado em desenvolvimento utilizando Java, MySQL, Spring, JavaScript, jQuery e AJAX
-- 🤝 Colaborando para criar um futuro digital mais acessível e inclusivo
-- 🎯 Focado em desenvolvimento web e aplicações escaláveis
+# Caua Emanuel
 
-### 🛠️ Tecnologias e Ferramentas
+**`Software Developer | Java Developer   `**
 
-- Linguagens: Java, JavaScript
-- Frameworks: Spring Boot
-- Banco de Dados: MySQL
-- Outras ferramentas: Git e AJAX
-### 🌱 Atualmente Aprendendo
+Sou apaixonado por criar soluções web que fazem a diferença! Atualmente, estou focado em desenvolver projetos utilizando as principais tecnologias do mercado, buscando sempre evoluir e compartilhar conhecimento com a comunidade.
 
-- Aprimorando habilidades em Java e Spring Boot
-
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cauaemanuel&show_icons=true&theme=dark)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cauaemanuel&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
- <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-                  
-  
-</div>
+- 🚀 Sempre aprendendo e desafiando limites.
+- 💡 Criando projetos inovadores, do front ao back-end.
+- 🤝 Aberto para colaboração e novas ideias!
 
 <div> 
-
-  <a href="https://www.instagram.com/caua.emanuel7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "emanuellcaua8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cau%C3%A3-emanuel-b2a584236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/cau%C3%A3-emanuel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+---
+
+### 🚀 Tecnologias & Ferramentas
+
+<img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="spring" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img align="left" alt="rabbitmq" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />         
+<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="angular" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+<img align="left" alt="docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
+<img align="left" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+          
+
+<br/><br/>
+
+---
+
+### 📈 Estatísticas GitHub
+
+<img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=Cauaemanuel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+<img align="left" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauaemanuel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+
+<br/><br/>
